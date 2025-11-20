@@ -1,7 +1,9 @@
 <!-- PROFILE README FOR CIRLYXA -->
 
 <p align="center">
-  <img src="A_digital_vector_graphic_design_of_a_logo_showcase.png" alt="Cirlyxa Logo" width="200">
+  <p align="center">
+  <img src="./image.png" alt="Cirlyxa Logo" width="200">
+</p>
 </p>
 
 <h1 align="center">Cirlyxa Labs</h1>
