@@ -1,9 +1,7 @@
 <!-- PROFILE README FOR CIRLYXA -->
 
 <p align="center">
-  <p align="center">
-  <img src="./image.png" alt="Cirlyxa Logo" width="200">
-</p>
+  <img src="./cirlyxa-banner.png" alt="Cirlyxa Banner" style="max-width: 100%; height: auto;">
 </p>
 
 <h1 align="center">Cirlyxa Labs</h1>
@@ -14,6 +12,7 @@
 </p>
 
 ---
+
 
 ## 👋 Hi, I’m Asma — the human behind Cirlyxa
 
@@ -91,9 +90,9 @@ I’m a returning student and future cybersecurity engineer building my skills i
 
 ## 📫 Let’s connect
 
-- 💼 LinkedIn: *(add your link here)*  
-- 🧠 Notion / Blog: *(add once you’re ready)*  
-- ✉️ Email: *(optional)*  
+- 💼 LinkedIn:  
+- 🧠 Notion / Blog: 
+- ✉️ Email: 
 
 > If you’ve scrolled this far: thanks for being here.  
 > Stay curious, stay secure — **welcome to Cirlyxa.** 🜁
