@@ -90,9 +90,12 @@ I’m a returning student and future cybersecurity engineer building my skills i
 
 ## 📫 Let’s connect
 
-- 💼 LinkedIn:  
-- 🧠 Notion / Blog: 
-- ✉️ Email: 
+- 💼 LinkedIn:www.linkedin.com/in/asma-nasser
 
-> If you’ve scrolled this far: thanks for being here.  
+- 🧠 Notion / Blog: [
+](https://cirlyxa.notion.site/Cirlyxa-Labs-GitHub-Profile-58e8dbe79f08454eba15b5ca1abe3e23?pvs=143)
+
+-  ✉️ website : (https://cirlyxa.github.io)
+
+     > If you’ve scrolled this far: thanks for being here.  
 > Stay curious, stay secure — **welcome to Cirlyxa.** 🜁
